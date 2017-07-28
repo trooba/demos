@@ -2,6 +2,10 @@
 
 This repository has all the talks, demos, casts related to Trooba Framework.
 
-## Service Pipeline Framework Or How We Do Plumbing At eBay (NodeSummit 2017)
+## NodeSummit 2017 Talk
 
-* <img src="NodeSummit-2017-Service-Pipeline-Framework.pdf" alt="some text"  width="600" height="300"> [Slides](NodeSummit-2017-Service-Pipeline-Framework.pdf)
+<p align="center">
+    <a href="NodeSummit-2017-Service-Pipeline-Framework.pdf">
+        ![pipeline flow](images/nodesummit-trooba-talk.png)
+    </a>
+</p>
