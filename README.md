@@ -1,4 +1,4 @@
-# Demos, Screencasts & Talks About Trooba Frmework
+# Demos, Screencasts & Talks About Trooba Framework
 
 This repository has all the talks, demos, casts related to Trooba Framework.
 
